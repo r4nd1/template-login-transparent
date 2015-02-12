@@ -1,7 +1,7 @@
 # Transparent Login Form
 A simple transparent form for login pages which is pure css and html.
 
-<a href="https://raw.githubusercontent.com/r4nd1/template-login-transparent/master/screenshot.jpg" width="900"></a>
+<img href="https://raw.github.com/r4nd1/template-login-transparent/master/screenshot.jpg" width="900">
 
 ## Uploader
 * Name: Randy Riolis
